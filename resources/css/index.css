@@ -59,11 +59,16 @@ nav li  {
     padding: 20px;
     font-size: 20px;
     color: white;
+   
     
 }
 nav a {
     color: white;
+
 }
+nav li:hover {
+    background-color: rgb(11, 105, 77);
+} 
 
 .price {
     float: right;
